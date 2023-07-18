@@ -1,1 +1,13 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="组_656" data-name="组 656" transform="translate(-15 -110)">
+    <rect id="矩形_484" data-name="矩形 484" width="20" height="20" transform="translate(15 110)" fill="#fff"/>
+    <g id="组_655" data-name="组 655" transform="translate(7.971 -17)">
+      <path id="路径_51" data-name="路径 51" d="M18.457,9.5V4.654A.654.654,0,0,0,17.8,4H8.654A.654.654,0,0,0,8,4.654V16.417a.654.654,0,0,0,.654.654h5.228" transform="translate(3.029 126)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+      <path id="路径_52" data-name="路径 52" d="M14,17h6.535" transform="translate(-1.01 116.268)" fill="none" stroke="#333" stroke-linecap="round" stroke-width="1.2"/>
+      <path id="路径_54" data-name="路径 54" d="M14,28h3.594" transform="translate(-1.01 108.535)" fill="none" stroke="#333" stroke-linecap="round" stroke-width="1.2"/>
+      <path id="路径_55" data-name="路径 55" d="M14,34h1.961" transform="translate(-1.01 105.803)" fill="none" stroke="#333" stroke-linecap="round" stroke-width="1.2"/>
+      <path id="路径_57" data-name="路径 57" d="M37.728,37.728l1.386,1.386" transform="translate(-16.985 103.293)" fill="none" stroke="#333" stroke-linecap="round" stroke-width="1.2"/>
+      <circle id="椭圆_11" data-name="椭圆 11" cx="1.961" cy="1.961" r="1.961" transform="translate(19.357 136.862) rotate(45)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>
